@@ -95,7 +95,7 @@ analytics:
 # Site Author
 author:
   name             : "SO-JEONG LEE (이소정)"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "C:/Users/SOJEONG/Documents/sojeong.jpg"
   bio              : "I am an **amazing** person."
   location         : "Busan, Republic of Korea"
   email            : dlthwjd314@daum.net
