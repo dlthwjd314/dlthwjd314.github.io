@@ -10,6 +10,8 @@ title:  "Linux Practice(1) - Directory / File"
 pwd -- 현재 위치 확인
 /root/
 
+
+
 ##### 1. /etc/sysconfig 복사해서 /root/filetest/ 넣으세요.
 
 ```bash
@@ -25,6 +27,8 @@ sysconfig
 
 
 
+
+
 ##### 2.  /root/filetest/sysconfig/network-scripts/를 이동시켜 /root/filetest1/에 넣으세요.
 
 ```bash
@@ -36,7 +40,8 @@ network-scripts
 ls: cannot access /root/filetest/sysconfig/network-scripts: No such file or directory
 ```
 
-##### 
+
+
 
 ##### 3. / root/filetest1/network-scripts 디렉토리에 파일 이름이 testfile을 만드시오.
 
@@ -45,6 +50,8 @@ ls: cannot access /root/filetest/sysconfig/network-scripts: No such file or dire
 [root@localhost ~]# ls /root/filetest1/network-scripts/testfile
 /root/filetest1/network-scripts/testfile
 ```
+
+
 
 
 
@@ -60,6 +67,8 @@ ls: cannot access /root/filetest/sysconfig/network-scripts: No such file or dire
 
 
 
+
+
 ##### 5. /root/testfile1 파일을 /tmp/testfile로 이름을 바꾸시오.
 
 ```bash
@@ -71,6 +80,8 @@ ls: cannot access /root/testfile1: No such file or directory
 ```
 
 -- 파일 이름이  바뀌면서 원본이 삭제 되었음을 알 수 있다.
+
+
 
 
 
@@ -99,6 +110,8 @@ bbbb
 
 
 
+
+
 ##### 7. /root/filetest/ 의 시간 정보를 현재 시각으로 바꾸시오.
 
 ```bash
@@ -119,6 +132,10 @@ drwxr-xr-x.  3 root root   37 Mar 28 22:43 filetest
 ```
 
 -- /root/filetest 를 한번 더 생성하면 overwritting 되어 생성시각으로 정보가 바뀐 것을 알 수 있다.
+
+
+
+
 
 ##### 8. rmdir 명령어로 /root/b/디렉토리를 삭제하시오.
 
