@@ -1,3 +1,8 @@
+---
+layout: post
+title:  "Linux Practice(1) - Directory / File"
+---
+
 #### [파일 및 디렉토리 생성 복사 이동 삭제 실습]
 
 
