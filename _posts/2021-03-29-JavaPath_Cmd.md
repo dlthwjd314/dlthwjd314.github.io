@@ -31,7 +31,7 @@ title:  "JDK 8 환경변수 설정 / 명령 프롬프트(cmd)에서 java 컴파�
 
 2. 좌측의 '고급 시스템 설정'에 들어갑니다.    
 
-    <img src = "https://user-images.githubusercontent.com/78267103/112850272-d2e37f80-90e4-11eb-9dfe-68e2db1ad848.jpg" width="300" height="300">  
+    <img src = "https://user-images.githubusercontent.com/78267103/112850272-d2e37f80-90e4-11eb-9dfe-68e2db1ad848.jpg" width="500" height="500">  
       
 
 
@@ -46,7 +46,7 @@ title:  "JDK 8 환경변수 설정 / 명령 프롬프트(cmd)에서 java 컴파�
 
 3. 시스템 속성창이 뜨면 하단의 '환경 변수' 에 들어갑니다.    
 
-    <img src = "https://user-images.githubusercontent.com/78267103/112850274-d2e37f80-90e4-11eb-824c-db28d1ab748e.jpg" width="300" height="300">
+    <img src = "https://user-images.githubusercontent.com/78267103/112850274-d2e37f80-90e4-11eb-824c-db28d1ab748e.jpg" width="500" height="500">
 
 
 
@@ -59,7 +59,8 @@ title:  "JDK 8 환경변수 설정 / 명령 프롬프트(cmd)에서 java 컴파�
 
 
 4. 환경변수 창에서  시스템 변수 아래의 '새로 만들기'를  클릭하여 변수를 설정합니다.
-     <img src = "https://user-images.githubusercontent.com/78267103/112850276-d37c1600-90e4-11eb-91c7-11bbff87d5ec.jpg" width="300" height="300">
+
+     <img src = "https://user-images.githubusercontent.com/78267103/112850276-d37c1600-90e4-11eb-91c7-11bbff87d5ec.jpg" width="500" height="500">
 
 
 
@@ -73,7 +74,7 @@ title:  "JDK 8 환경변수 설정 / 명령 프롬프트(cmd)에서 java 컴파�
 
 5. 아래와 같이 변수 이름을 'JAVA_HOME'과 같이 설정하고 'jdk1.8.0_281' 폴더가 존재하는 경로를 변수 값으로 지정해 줍니다. (일반적으로 아래와 같은 경로에 해당 폴더가 존재합니다.)
 
-    <img src = "https://user-images.githubusercontent.com/78267103/112850278-d37c1600-90e4-11eb-92c5-9c4e66d9aa0b.jpg" width="300" height="100">
+    <img src = "https://user-images.githubusercontent.com/78267103/112850278-d37c1600-90e4-11eb-92c5-9c4e66d9aa0b.jpg" width="500" height="200">
 
 
 
@@ -87,7 +88,7 @@ title:  "JDK 8 환경변수 설정 / 명령 프롬프트(cmd)에서 java 컴파�
 
 6. 그리고 변수이름을 'CLASSPATH'로 설정하고 변수 값을 '.;' ('.'은 현재경로를 의미)와 같이 지정해줍니다.
 
-    <img src = "https://user-images.githubusercontent.com/78267103/112850280-d414ac80-90e4-11eb-856b-34adb30fc45f.jpg" width="300" height="100">
+    <img src = "https://user-images.githubusercontent.com/78267103/112850280-d414ac80-90e4-11eb-856b-34adb30fc45f.jpg" width="500" height="200">
 
 
 
@@ -101,7 +102,7 @@ title:  "JDK 8 환경변수 설정 / 명령 프롬프트(cmd)에서 java 컴파�
 
 7. 새 시스템 변수 설정 확인 후 시스템 변수에서 'Path'변수를 편집하여 JDK 의 경로를 지정해 주도록 합니다.
 
-     <img src = "https://user-images.githubusercontent.com/78267103/112850286-d414ac80-90e4-11eb-9418-2531f81f5e0c.jpg" width="300" height="300">
+     <img src = "https://user-images.githubusercontent.com/78267103/112850286-d414ac80-90e4-11eb-9418-2531f81f5e0c.jpg" width="500" height="500">
 
 
 
@@ -117,7 +118,7 @@ title:  "JDK 8 환경변수 설정 / 명령 프롬프트(cmd)에서 java 컴파�
 
    (경로지정 시 ' %시스템 변수 이름%\나머지 경로 ' 의 형식으로 생성합니다.)
 
-   <img src = "https://user-images.githubusercontent.com/78267103/112850289-d4ad4300-90e4-11eb-882c-cfe3733dd9d3.jpg" width="300" height="300"> 
+   <img src = "https://user-images.githubusercontent.com/78267103/112850289-d4ad4300-90e4-11eb-882c-cfe3733dd9d3.jpg" width="500" height="500"> 
 
 
 
@@ -138,7 +139,7 @@ title:  "JDK 8 환경변수 설정 / 명령 프롬프트(cmd)에서 java 컴파�
 
 1. 작업하고자 하는 폴더에서 자바확장자(.java)로 파일을 하나 만들어 줍니다. 
 
-    <img src = "https://user-images.githubusercontent.com/78267103/112850293-d545d980-90e4-11eb-8727-48c4ee266069.jpg" width="300" height="300">
+    <img src = "https://user-images.githubusercontent.com/78267103/112850293-d545d980-90e4-11eb-8727-48c4ee266069.jpg" width="500" height="500">
 
 
 
@@ -158,7 +159,7 @@ title:  "JDK 8 환경변수 설정 / 명령 프롬프트(cmd)에서 java 컴파�
 
    (자바 클래스명과 클래스를 담은 파일명은 같아야 합니다.)
 
-    <img src = "https://user-images.githubusercontent.com/78267103/112850296-d545d980-90e4-11eb-94ad-089006989ccc.jpg" width="300" height="300">
+    <img src = "https://user-images.githubusercontent.com/78267103/112850296-d545d980-90e4-11eb-94ad-089006989ccc.jpg" width="500" height="500">
 
 
 
