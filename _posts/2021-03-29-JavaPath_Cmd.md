@@ -47,7 +47,7 @@ title:  "JDK 8 환경변수 설정 / 명령 프롬프트(cmd)에서 java 컴파�
 
 3. 시스템 속성창이 뜨면 하단의 '환경 변수' 에 들어갑니다.
 
-<img src="dlthwjd314.github.io/assets/images/image-20210329213300567.png />
+<img src="dlthwjd314.github.io/assets/images/image-20210329213300567.png" />
 
 
 
