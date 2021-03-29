@@ -73,7 +73,7 @@ title:  "JDK 8 환경변수 설정 / 명령 프롬프트(cmd)에서 java 컴파�
 
 5. 아래와 같이 변수 이름을 'JAVA_HOME'과 같이 설정하고 'jdk1.8.0_281' 폴더가 존재하는 경로를 변수 값으로 지정해 줍니다. (일반적으로 아래와 같은 경로에 해당 폴더가 존재합니다.)
 
-    <img src = "https://user-images.githubusercontent.com/78267103/112850278-d37c1600-90e4-11eb-92c5-9c4e66d9aa0b.jpg" width="300" height="300">
+    <img src = "https://user-images.githubusercontent.com/78267103/112850278-d37c1600-90e4-11eb-92c5-9c4e66d9aa0b.jpg" width="300" height="100">
 
 
 
@@ -87,7 +87,7 @@ title:  "JDK 8 환경변수 설정 / 명령 프롬프트(cmd)에서 java 컴파�
 
 6. 그리고 변수이름을 'CLASSPATH'로 설정하고 변수 값을 '.;' ('.'은 현재경로를 의미)와 같이 지정해줍니다.
 
-    <img src = "https://user-images.githubusercontent.com/78267103/112850280-d414ac80-90e4-11eb-856b-34adb30fc45f.jpg" width="300" height="300">
+    <img src = "https://user-images.githubusercontent.com/78267103/112850280-d414ac80-90e4-11eb-856b-34adb30fc45f.jpg" width="300" height="100">
 
 
 
