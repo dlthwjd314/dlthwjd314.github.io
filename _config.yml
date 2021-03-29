@@ -96,7 +96,7 @@ analytics:
 author:
   name             : "SO-JEONG LEE (이소정)"
   avatar           : "dlthwjd314.github.io/assets/images/sojeong.jpg"
-  bio              : "풀스택 개발자가 되기 위해 공부하고 있습니다."
+  #bio              : "풀스택 개발자가 되기 위해 공부하고 있습니다."
   location         : "Busan, Republic of Korea"
   email            :
   links:
