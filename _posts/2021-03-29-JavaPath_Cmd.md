@@ -19,7 +19,7 @@ title:  "JDK 8 환경변수 설정 / 명령 프롬프트(cmd)에서 java 컴파�
 
 1. ' 내 PC ' 의 빈 곳을 우클릭 하여 속성에 들어갑니다.  
 
-<img src="dlthwjd314.github.io/assets/images/image-20210329202658615.jpg"/>
+<img src="![image-20210329202658615](https://user-images.githubusercontent.com/78267103/112850267-d119bc00-90e4-11eb-900d-b1eabe0334b1.jpg)"/>
 
 
 
