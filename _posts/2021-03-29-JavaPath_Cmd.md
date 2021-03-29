@@ -19,7 +19,7 @@ title:  "JDK 8 환경변수 설정 / 명령 프롬프트(cmd)에서 java 컴파�
 
 1. ' 내 PC ' 의 빈 곳을 우클릭 하여 속성에 들어갑니다.  
 
-<img src="C:\Users\SOJEONG\AppData\Roaming\Typora\typora-user-images\image-20210329202658615.png" alt="image-20210329202658615" style="zoom: 67%;" />
+<img src="dlthwjd314.github.io/assets/images/image-20210329202658615.png" />
 
 
 
@@ -33,7 +33,7 @@ title:  "JDK 8 환경변수 설정 / 명령 프롬프트(cmd)에서 java 컴파�
 
 2. 좌측의 '고급 시스템 설정'에 들어갑니다.
 
-   <img src="C:\Users\SOJEONG\AppData\Roaming\Typora\typora-user-images\image-20210329212913104.png" alt="image-20210329212913104" style="zoom: 80%;" />
+   <img src="dlthwjd314.github.io/assets/images/image-20210329212913104.png" />
 
 
 
@@ -47,7 +47,7 @@ title:  "JDK 8 환경변수 설정 / 명령 프롬프트(cmd)에서 java 컴파�
 
 3. 시스템 속성창이 뜨면 하단의 '환경 변수' 에 들어갑니다.
 
-<img src="C:\Users\SOJEONG\AppData\Roaming\Typora\typora-user-images\image-20210329213300567.png" alt="image-20210329213300567" style="zoom: 80%;" />
+<img src="dlthwjd314.github.io/assets/images/image-20210329213300567.png />
 
 
 
@@ -61,7 +61,7 @@ title:  "JDK 8 환경변수 설정 / 명령 프롬프트(cmd)에서 java 컴파�
 
 4. 환경변수 창에서  시스템 변수 아래의 '새로 만들기'를  클릭하여 변수를 설정합니다.
 
-   <img src="C:\Users\SOJEONG\AppData\Roaming\Typora\typora-user-images\image-20210329213503871.png" alt="image-20210329213503871" style="zoom: 67%;" />
+   <img src="dlthwjd314.github.io/assets/images/image-20210329213503871.png" />
 
 
 
@@ -75,7 +75,7 @@ title:  "JDK 8 환경변수 설정 / 명령 프롬프트(cmd)에서 java 컴파�
 
 5. 아래와 같이 변수 이름을 'JAVA_HOME'과 같이 설정하고 'jdk1.8.0_281' 폴더가 존재하는 경로를 변수 값으로 지정해 줍니다. (일반적으로 아래와 같은 경로에 해당 폴더가 존재합니다.)
 
-<img src="C:\Users\SOJEONG\AppData\Roaming\Typora\typora-user-images\image-20210329213626737.png" alt="image-20210329213626737" style="zoom: 67%;" />
+<img src="dlthwjd314.github.io/assets/images/image-20210329213626737.png" />
 
 
 
@@ -89,7 +89,7 @@ title:  "JDK 8 환경변수 설정 / 명령 프롬프트(cmd)에서 java 컴파�
 
 6. 그리고 변수이름을 'CLASSPATH'로 설정하고 변수 값을 '.;' ('.'은 현재경로를 의미)와 같이 지정해줍니다.
 
-   <img src="C:\Users\SOJEONG\AppData\Roaming\Typora\typora-user-images\image-20210329214119449.png" alt="image-20210329214119449" style="zoom:67%;" />
+   <img src="dlthwjd314.github.io/assets/images/image-20210329214119449.png" />
 
 
 
@@ -103,7 +103,7 @@ title:  "JDK 8 환경변수 설정 / 명령 프롬프트(cmd)에서 java 컴파�
 
 7. 새 시스템 변수 설정 확인 후 시스템 변수에서 'Path'변수를 편집하여 JDK 의 경로를 지정해 주도록 합니다.
 
-   <img src="C:\Users\SOJEONG\AppData\Roaming\Typora\typora-user-images\image-20210329214309141.png" alt="image-20210329214309141" style="zoom:67%;" />
+   <img src="dlthwjd314.github.io/assets/images/image-20210329214309141.png"/>
 
 
 
@@ -119,7 +119,7 @@ title:  "JDK 8 환경변수 설정 / 명령 프롬프트(cmd)에서 java 컴파�
 
    (경로지정 시 ' %시스템 변수 이름%\나머지 경로 ' 의 형식으로 생성합니다.)
 
-<img src="C:\Users\SOJEONG\AppData\Roaming\Typora\typora-user-images\image-20210329214516105.png" alt="image-20210329214516105" style="zoom:67%;" />
+<img src="dlthwjd314.github.io/assets/images/image-20210329214516105.png"/>
 
 
 
@@ -141,7 +141,7 @@ title:  "JDK 8 환경변수 설정 / 명령 프롬프트(cmd)에서 java 컴파�
 
 1. 작업하고자 하는 폴더에서 자바확장자(.java)로 파일을 하나 만들어 줍니다. 
 
-<img src="C:\Users\SOJEONG\AppData\Roaming\Typora\typora-user-images\image-20210329215113195.png" alt="image-20210329215113195" style="zoom: 67%;" />
+<img src="dlthwjd314.github.io/assets/images/image-20210329215113195.png"/>
 
 
 
@@ -161,7 +161,7 @@ title:  "JDK 8 환경변수 설정 / 명령 프롬프트(cmd)에서 java 컴파�
 
    (자바 클래스명과 클래스를 담은 파일명은 같아야 합니다.)
 
-   <img src="C:\Users\SOJEONG\AppData\Roaming\Typora\typora-user-images\image-20210329215241860.png" alt="image-20210329215241860" style="zoom:67%;" />
+   <img src="dlthwjd314.github.io/assets/images/image-20210329215241860.png" />
 
 
 
